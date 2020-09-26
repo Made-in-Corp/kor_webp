@@ -217,22 +217,6 @@ button {
     transition: ease all 0.5s;
 
 }
-.bt_main2{
-
-    color: #fff;
-    font-size: 14px;
-    min-width: 155px;
-    float: left;
-    text-align: center;
-    height: 48px;
-    line-height: 50px;
-    font-weight: 500;
-    border: none;
-    padding: 0 35px;
-    transition: ease all 0.5s;
-
-}
-
 .bt_main:hover,
 .bt_main:focus {
     color: #fff;
@@ -249,6 +233,41 @@ button {
 
 .white_bt.bt_main:hover,
 .white_bt.bt_main:focus {
+    color: #fff;
+}
+
+.bt_main2{
+
+    color: #fff;
+    font-size: 14px;
+    min-width: 155px;
+    float: left;
+    text-align: center;
+    height: 48px;
+    line-height: 50px;
+    font-weight: 500;
+    border: none;
+    padding: 0 35px;
+    transition: ease all 0.5s;
+
+}
+
+.bt_main2:hover,
+.bt_main2:focus {
+    color: #fff;
+    background-color: #fff;
+}
+
+.reverse_bt.bt_main2 {
+    color: #fff;
+}
+
+.white_bt.bt_main2 {
+    background: #fff;
+}
+
+.white_bt.bt_main2:hover,
+.white_bt.bt_main2:focus {
     color: #fff;
 }
 
