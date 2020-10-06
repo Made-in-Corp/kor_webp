@@ -18,6 +18,23 @@
 .header_style_ecomm2 .header_top li {
     font-size: 13px;
 }
+#mainslog{
+    font-size: 2.6rem; font-weight: bold; color: white;
+}
+#mainbg{
+    height: 90vh;
+    padding: 11%;
+    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#msgslog{
+    display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+}
+#msgicon{
+    width: 3.2rem;
+  }
 
 .header_style_ecomm2 .main_menu div.menu ul li a {
     font-size: 12px;
@@ -57,6 +74,23 @@
         width: 100%;
         z-index: 1;
     }
+    #mainslog{
+        font-size: 2.6rem; font-weight: bold; color: white;
+    }
+    #mainbg{
+        height: 90vh;
+        padding: 11%;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+    #msgslog{
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    }
+    #msgicon{
+        width: 3.2rem;
+      }
     .container {
         width: 100%;
         max-width: 990px;
@@ -385,6 +419,23 @@
         width: 100%;
         z-index: 1;
     }
+    #mainslog{
+        font-size: 2.6rem; font-weight: bold; color: white;
+    }
+    #mainbg{
+        height: 90vh;
+        padding: 11%;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+    #msgslog{
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    }
+    #msgicon{
+        width: 3.2rem;
+      }
     .slide_cont h2 {
         font-size: 35px;
         line-height: 40px;
@@ -789,6 +840,23 @@
         max-width: 540px;
         width: 100%:
     }
+    #mainslog{
+        font-size: 2.6rem; font-weight: bold; color: white;
+    }
+    #mainbg{
+        height: 90vh;
+        padding: 11%;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+    #msgslog{
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    }
+    #msgicon{
+        width: 3.2rem;
+      }
     .main_menu {
         margin: 21px 0 0;
     }
@@ -2018,6 +2086,23 @@
     .margin_top_30_respon {
         margin-top: 30px;
     }
+    #mainslog{
+        font-size: 2.6rem; font-weight: bold; color: white;
+    }
+    #mainbg{
+        height: 90vh;
+        padding: 11%;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+    #msgslog{
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    }
+    #msgicon{
+        width: 3.2rem;
+      }
     .header_fixed {
         width: 100%;
         z-index: 1;
@@ -3296,6 +3381,23 @@
     .main_menu {
         margin: 21px 0 0;
     }
+    #mainslog{
+        font-size: 2.6rem; font-weight: bold; color: white;
+    }
+    #mainbg{
+        height: 90vh;
+        padding: 11%;
+        background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+    #msgslog{
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    }
+    #msgicon{
+        width: 3.2rem;
+      }
     .header_fixed {
         width: 100%;
         z-index: 1;

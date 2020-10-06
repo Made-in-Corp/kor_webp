@@ -92,10 +92,8 @@ h6 {
 h1 {
     font-size: 24px
 }
-.msgicon{
-              width: 3.5rem;
-            }
-F
+
+
 .small_heading.main-heading h2 {
     font-size: 21px;
 }
@@ -309,7 +307,23 @@ button {
 .padding-bottom_1 {
     padding-bottom: 10px !important;
 }
-
+#mainslog{
+    font-size: 4rem; font-weight: bold; color: white;
+}
+#mainbg{
+    height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#msgslog{
+    display:scroll; position:fixed; bottom:30px; right:20px; font-size: 1.2rem; font-weight: bold; color: white;
+}
+#msgicon{
+    width: 4rem;
+  }
 .padding-bottom_2 {
     padding-bottom: 20px !important;
 }
