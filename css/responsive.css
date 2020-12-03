@@ -3398,6 +3398,39 @@
     #msgicon{
         width: 3.2rem;
       }
+      
+#mainbg{
+    width: 100%;
+    background:  url('../images/mob1@2x.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg2{
+    width: 100%;
+    background:  url('../images/mob2@2x.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg3{
+    width: 100%;
+    background:  url('../images/mob3@2x.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg4{
+    width: 100%;
+    background:  url('../images/mob4@2x.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
     .header_fixed {
         width: 100%;
         z-index: 1;

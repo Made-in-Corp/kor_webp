@@ -312,7 +312,31 @@ button {
 }
 #mainbg{
     height: 100vh;
-    background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45) ), url('../images/mainbg.jpg');
+    background:  url('../images/mainbg222.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg2{
+    height: 100vh;
+    background:  url('../images/mainbg2.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg3{
+    height: 100vh;
+    background:  url('../images/mainbg3.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    text-align: center;
+}
+#bg4{
+    height: 100vh;
+    background:  url('../images/mainbg4.jpg');
     background-size: cover;
     background-position: center;
     padding-top: 20rem;
